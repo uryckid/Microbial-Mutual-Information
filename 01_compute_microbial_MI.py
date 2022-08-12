@@ -161,7 +161,7 @@ dlist = [5, 95] # list of exceedence probabilites (integers
 doMean_Qt = True # Calculate MI of daily dishcarge for specific time intervals prior to sampling
 timesteps = [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30] # List of timesteps prior to sample date (e.g., the value '3' is processed as 't-3 days prior to sampling) 
 doArea = True # Calculate MI of sub-catchemnt area
-no_shuffles = 3 # Number of shuffled surrogates used to develop significance threshold; default = 100'
+no_shuffles = 1000 # Number of shuffled surrogates used to develop significance threshold; default = 100'
 
 ###### LOAD DATA ######
 
