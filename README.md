@@ -1,6 +1,6 @@
 # Microbial-Mutual-Information
 This record includes software and data used to compute shared information between streamwater microbial taxa and hydrologic metrics for the article:  
-URycki, D. R., Bassiouni, M., Good, S. P., Crump, B. C., &amp; Li, B. (2022). The streamwater microbiome encodes hydrologic data across scales. Science of The Total Environment, 157911.
+URycki, D. R., Bassiouni, M., Good, S. P., Crump, B. C., &amp; Li, B. (2022). The streamwater microbiome encodes hydrologic data across scales. Science of The Total Environment, 157911. https://doi.org/10.1016/j.scitotenv.2022.157911
 
 To run this analysis:
 1. Download all files and folders into a primary parent directory.
